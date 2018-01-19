@@ -1,11 +1,11 @@
-# Build Instructions: Parts Crib Database + USB Barcode Scanner (Build Instructions).
+# Build Instructions: Parts Crib Database + USB Barcode Scanner.
 
 ## Table of Contents
 1. [Correct web template usage](#correct-web-template-usage)
 2. [Introduction using a system diagram](#introduction-using-a-system-diagram)
 3. [Budget](#budget)
 4. [Time Commitment](#time-commitment)
-5. [PCB Soldering](#pcb-soldering)
+5. [Pcb Soldering](#pcb-soldering)
 6. [Mechanical Assembly](#mechanical-assembly)
 7. [Power Up](#power-up)
 8. [Unit Testing](#unit-testing)
