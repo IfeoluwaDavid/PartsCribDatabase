@@ -5,7 +5,7 @@
 2. [Introduction using a system diagram](#introduction-using-a-system-diagram)
 3. [Budget](#budget)
 4. [Time Commitment](#time-commitment)
-5. [Pcb Soldering](#pcb-soldering)
+5. [PCB Soldering](#pcb-soldering)
 6. [Mechanical Assembly](#mechanical-assembly)
 7. [Power Up](#power-up)
 8. [Unit Testing](#unit-testing)
@@ -39,7 +39,7 @@ Normally, this exact project or something much similar can be finished in about 
 
 Additionally, for the hardware section of this project, where all three group members were expected to work individually on their sensors and effectors. I realised a waterfall work flow would be the most ideal option for working individually, because I felt the need to work things out one after the other i.e. one task depending on the previous task. This way, I was able to measure my progress and what I’ve accomplished, on a weekly basis. However, I sort of deviated from the proposed project schedule after the school strike, which made things slightly disorganised, causing me to spend a lot of hours trying to cover as much work as I could on a daily basis. But after, getting familiar with the mechanical assembly, and building a portion of web application to respond to our hardware. I also figured out I didn’t need any kind of programmatical configuration (e.g. a python script) to get my USB barcode scanner to do what it was expected to, on the web application. At this point, things seemed a bit fast tracked and almost complete.
 
-### PCB/Soldering: 
+### PCB Soldering: 
 
 During the week of the PCB/Soldering deliverable, our instructor provided us with a schematic which was expected to be edited and 3D printed. We were also given a detailed step by step procedure as well as some materials for our first soldering project. Upon completion, we tested for shorts and open circuits in our finished product before mounting the board on the Pi. We were then asked to remotely access some repository files via the Pi’s command line. These files were test programs that we had to edit, run and observe its effects (i.e. temperature reading, light etc.) on the mounted PCB board’s LED. I believe the main goal for this project was just to get us to familiarize with the raspberry Pi’s OS interface and the command line. 
 
