@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Correct web template usage](#correct-web-template-usage)
-2. [Introduction using a system diagram](#student-sense-hat-specifications)
+2. [Introduction using a system diagram](#introduction-using-a-system-diagram)
 3. [Budget](#budget)
 4. [Time Commitment](#time-commitment)
 5. [PCB Soldering](#pcb-soldering)
