@@ -1,8 +1,6 @@
 
-Name: Ifeoluwa David Adese
-Student ID: N01063518
-Course: Hardware Production Technology (CENG 317)
-Project: Parts Crib Database + USB Barcode Scanner (Build Instructions).
+
+Build Instructions: Parts Crib Database + USB Barcode Scanner (Build Instructions).
 
 Correct web template usage: 
 
