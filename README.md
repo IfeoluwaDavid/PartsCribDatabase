@@ -11,6 +11,8 @@
 8. [Unit Testing](#unit-testing)
 9. [Production Testing](#production-testing)
 
+![alt text](https://github.com/IfeoluwaDavid/PartsCribDatabase/blob/master/Week%208%20Files/barcodescanner.jpg)
+
 ### Correct web template usage: 
 
 At the start of the semester, I set up about 2 repositories for this project, one for the software and the other for the hardware, as well as a website to keep track of our weekly progress on the hardware development aspect. The template for this website/blog was provided by the instructor. The web page files were embedded in the repository and updated via html scripts. After every web page update, I published and committed my local changes to the remote repository via the GitHub desktop app in order to view my changes live on the website/blog.
