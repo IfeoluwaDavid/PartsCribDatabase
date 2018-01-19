@@ -22,7 +22,9 @@ Webpage – ifeoluwadavid.github.io/PartsCribDatabase
 Although, this course specifically focuses on the hardware production aspect of this project, there are generally 3 major areas i.e. the hardware setup i.e. the USB barcode scanner & Raspberry Pi, the web application development (partscribdatabase.tech) and the mobile application development (Android). In terms of design, the simplest way I can explain is this:
 
 •	Web Application: Designed for Both Admins & Students but mainly used by Administrators.
+
 •	Mobile Application: Designed for both Admins & Students but mainly used by Students. 
+
 •	Hardware Product (Barcode Scanner): Designed strictly for use by the Parts Crib Administrators.
 
 Only the web application communicates with the hardware, although not compulsorily. It simply scans in registered barcode IDs into the web application’s text field and triggers an exchange of data between the server and the web application within a split second. However, the mobile application is developed to function on its own, independently. The diagram below illustrates how the project’s data flow works generally.
