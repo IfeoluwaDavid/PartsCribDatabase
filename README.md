@@ -11,7 +11,7 @@
 8. [Unit Testing](#unit-testing)
 9. [Production Testing](#production-testing)
 
-![alt text](https://github.com/IfeoluwaDavid/PartsCribDatabase/blob/master/Week%208%20Files/barcodescanner.jpg)
+![alt text](https://github.com/IfeoluwaDavid/PartsCribDatabase/blob/master/Media%20Files%20(Photos%20&%20Videos)/barcodescanner.jpg)
 
 ### Correct web template usage: 
 
@@ -31,7 +31,7 @@ Although, this course specifically focuses on the hardware production aspect of 
 
 Only the web application communicates with the hardware, although not compulsorily. It simply scans in registered barcode IDs into the web application’s text field and triggers an exchange of data between the server and the web application within a split second. However, the mobile application is developed to function on its own, independently. The diagram below illustrates how the project’s data flow works generally.
 
-![alt text](https://github.com/IfeoluwaDavid/PartsCribDatabase/blob/master/Week%2012%20Files/PartsCribDatabaseSysDiagram.jpg)
+![alt text](https://github.com/IfeoluwaDavid/PartsCribDatabase/blob/master/Media%20Files%20(Photos%20&%20Videos)/PartsCribDatabaseSysDiagram.jpg)
  
 ### Budget: 
 
